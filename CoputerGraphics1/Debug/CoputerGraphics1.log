@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\kittycat\documents\visual studio 2015\projects\coputergraphics1\coputergraphics1\source.cpp(40): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\kittycat\documents\visual studio 2015\projects\coputergraphics1\coputergraphics1\source.cpp(118): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\kittycat\documents\visual studio 2015\projects\coputergraphics1\coputergraphics1\source.cpp(119): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+c:\users\kittycat\documents\visual studio 2015\projects\coputergraphics1\coputergraphics1\source.cpp(123): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\kittycat\documents\visual studio 2015\projects\coputergraphics1\coputergraphics1\source.cpp(124): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  CoputerGraphics1.vcxproj -> C:\Users\KittyCat\Documents\Visual Studio 2015\Projects\CoputerGraphics1\Debug\CoputerGraphics1.exe
+  CoputerGraphics1.vcxproj -> C:\Users\KittyCat\Documents\Visual Studio 2015\Projects\CoputerGraphics1\Debug\CoputerGraphics1.pdb (Partial PDB)
