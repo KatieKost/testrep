@@ -14,7 +14,7 @@ float vect[2] = { 0.25, -1 };
 struct point {
 	float x;
 	float y;
-	hjhj
+	int k;
 	
 	point() {};
 	point(float x, float y) { this->x = x; this->y = y; }
